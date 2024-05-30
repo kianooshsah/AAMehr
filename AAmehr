@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hearun - Conscious Dance Leader & Mindful Runner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #40e0d0;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            background-color: #333;
+            color: #fff;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: #fff;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: #333;
+        }
+        section {
+            padding: 20px;
+        }
+        .section-title {
+            font-size: 2em;
+            color: #40e0d0;
+            border-bottom: 2px solid #40e0d0;
+            padding-bottom: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+        .bohemian {
+            background: linear-gradient(to right, #8e2de2, #4a00e0);
+            padding: 15px;
+            color: white;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hearun</h1>
+        <p>Conscious Dance Leader & Mindful Runner</p>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#routines">Routines</a>
+        <a href="#classes">Classes & Workshops</a>
+        <a href="#traveling">Traveling (Retreats)</a>
+        <a href="#theories">Theories & Philosophies</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="about">
+            <h2 class="section-title">About Me</h2>
+            <p>Hello, I'm Hearun. As a conscious dance leader and mindful runner, I guide individuals to connect with their inner selves through movement and mindfulness. My journey has been about discovering the profound connection between the body and mind, and I aim to share this with my community.</p>
+        </section>
+        <section id="routines">
+            <h2 class="section-title">Routines</h2>
+            <p>Explore my daily routines that blend dance, running, and mindfulness practices. Each routine is designed to enhance physical health, mental clarity, and emotional balance.</p>
+        </section>
+        <section id="classes">
+            <h2 class="section-title">Classes & Workshops</h2>
+            <p>Join my classes and workshops to experience the transformative power of conscious dance and mindful running. Whether you are a beginner or an experienced practitioner, there's something for everyone.</p>
+        </section>
+        <section id="traveling">
+            <h2 class="section-title">Traveling (Retreats)</h2>
+            <p>Discover the joy of retreats where we travel to beautiful locations, immerse in nature, and deepen our practice of mindfulness and conscious movement.</p>
+        </section>
+        <section id="theories">
+            <h2 class="section-title">Theories & Philosophies</h2>
+            <div class="bohemian">
+                <p>Delve into the theories and philosophies that underpin my practices. From ancient wisdom to modern science, learn about the principles that guide my approach to conscious dance and mindful running.</p>
+            </div>
+        </section>
+        <section id="contact">
+            <h2 class="section-title">Contact</h2>
+            <p>If you would like to get in touch, please feel free to reach out through email at <a href="mailto:hearun@example.com">hearun@example.com</a>. I look forward to connecting with you!</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Hearun. All rights reserved.</p>
+    </footer>
+</body>
+</html>
